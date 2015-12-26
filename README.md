@@ -1,6 +1,7 @@
 # just_do_it_20151226
 やってみた祭り第1回
 
+<code>
 <html>
 <head>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
@@ -85,3 +86,4 @@
 </div>
 </body>
 </html>
+</code>
